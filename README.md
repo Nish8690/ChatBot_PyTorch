@@ -1,2 +1,0 @@
-# LaneDetection
-Computer Vision
